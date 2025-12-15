@@ -1,6 +1,6 @@
 streamlit
-pandas
-numpy
-matplotlib
-scikit-learn
 docx2txt
+nltk
+PyMuPDF
+pandas
+plotly
